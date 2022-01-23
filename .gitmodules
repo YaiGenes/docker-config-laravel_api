@@ -1,0 +1,3 @@
+[submodule "laravel-api-tailwind"]
+	path = laravel-api-tailwind
+	url = https://github.com/YaiGenes/laravel-api-tailwind.git
